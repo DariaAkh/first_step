@@ -1,0 +1,6 @@
+<?php
+echo "Сегодня " . date("Y/m/d") . "<br>";
+echo "Сегодня " . date("Y.m.d") . "<br>";
+echo "Сегодня " . date("Y-m-d") . "<br>";
+echo "Сегодня " . date("l");
+?>
